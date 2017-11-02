@@ -4,5 +4,5 @@
 
 `No. Shifts = (n - m + 1)`  
 Where:  
-<p>m = pattern</p>
-<p>n = text</p>  
+<t>m = pattern</t>
+n = text
