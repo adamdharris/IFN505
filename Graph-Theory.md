@@ -12,8 +12,8 @@
 2. Positive weights only, does not work for negative weighted graphs.
 3. Greedy algorithm
 
-Efficiency is `O(|V|<sup>2</sup>)` simplist implementation.
-Efficiency is `O(|E|+|V|log|V|)` to reach all possible nodes in the graph.
+Efficiency is `O(|V|<sup>2</sup>)` simplist implementation.  
+Efficiency is `O(|E|+|V|log|V|)` to reach all possible nodes in the graph.  
 
 
 [Dikjstra's Algorithm - Example 1](https://www.youtube.com/watch?v=_lHSawdgXpI)
