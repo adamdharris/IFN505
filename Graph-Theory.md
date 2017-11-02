@@ -16,8 +16,8 @@ Efficiency is `O(|V|<sup>2</sup>)` simplist implementation.
 Efficiency is `O(|E|+|V|log|V|)` to reach all possible nodes in the graph.  
 
 
-[Dikjstra's Algorithm - Example 1](https://www.youtube.com/watch?v=_lHSawdgXpI)
-[Dikjstra's Algorithm - Example 2](https://www.youtube.com/watch?v=WN3Rb9wVYDY)
+[Dikjstra's Algorithm - Example 1](https://www.youtube.com/watch?v=_lHSawdgXpI)   
+[Dikjstra's Algorithm - Example 2](https://www.youtube.com/watch?v=WN3Rb9wVYDY)   
 
 ### Bellman-Ford Algorithm
 1. At most runs |V|-1 times to find shortest path
