@@ -5,7 +5,8 @@
 1. Efficiency is O(|V|<sup>3</sup>) for simplist implementation.
 2. Efficiency is O(|V|<sup>3</sup>) starting at all possible start nodes, find shortest path to all possible pairs.
 
-[Floyd's Algorithm Example](https://www.youtube.com/watch?v=t3mf2Vu9wA4)
+[Floyd's Algorithm - Example 1](https://www.youtube.com/watch?v=t3mf2Vu9wA4)
+[Floyd's Algorithm - Example 2](https://www.youtube.com/watch?v=4OQeCuLYj-4&t=187s)
 
 ### Dikjstra's Algorithm
 * Tells you the shortest path from one node to all other node in the graph.
