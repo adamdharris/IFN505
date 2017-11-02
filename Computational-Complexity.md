@@ -1,4 +1,4 @@
-#P vs NP
+# P vs NP
 
 * **P** is a polynomial time.  
 * **NP** non-deterministic polynomial time.  
