@@ -9,3 +9,4 @@
 * Is hard to solve, but also hard to verify a solution
 * Easy to understand but hard to solve maths problem. 
 
+![P v NP](https://en.wikipedia.org/wiki/P_versus_NP_problem#/media/File:P_np_np-complete_np-hard.svg)
