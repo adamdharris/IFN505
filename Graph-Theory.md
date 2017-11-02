@@ -28,7 +28,7 @@
 **Efficiency is O{|E|.|V|)**
 
 [Bellman-Ford: Theory](https://www.youtube.com/watch?v=9PHkk0UavIM)
-[Bellman-Ford: Step by Step Example]](https://www.youtube.com/watch?v=obWXjtg0L64)
+[Bellman-Ford: Step by Step Example](https://www.youtube.com/watch?v=obWXjtg0L64)
 
 ### Prim's Algorithm
 * Minimum spanning tree
