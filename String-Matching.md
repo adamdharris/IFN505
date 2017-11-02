@@ -3,6 +3,7 @@
 ## Horspool Algorithm
 
 `No. Shifts = (n - m + 1)`  
+
 Where:  
-  m = pattern  
-  n = text
+1. m = pattern  
+2. n = text
