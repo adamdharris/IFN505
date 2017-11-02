@@ -10,7 +10,7 @@
 ### Dikjstra's Algorithm
 * Tells you the shortest path from one node to all other node in the graph.
 * Positive weights only, does not work for negative weighted graphs.
-* Greedy algorithm
+* Greedy algorithm.
 
 * Efficiency is `O(|V|<sup>2</sup>)` simplist implementation.  
 * Efficiency is `O(|E|+|V|log|V|)` to reach all possible nodes in the graph.  
@@ -20,10 +20,10 @@
 [Dikjstra's Algorithm - Example 2](https://www.youtube.com/watch?v=WN3Rb9wVYDY)   
 
 ### Bellman-Ford Algorithm
-1. At most runs |V|-1 times to find shortest path
-2. Compute all outgoing edges
-3. Works on graphs negative edge wieghts
-5. Not a greedy algorithm
+* At most runs |V|-1 times to find shortest path
+* Compute all outgoing edges
+* Works on graphs negative edge wieghts
+* Not a greedy algorithm
 
 **Efficiency is O{|E|.|V|)**
 
