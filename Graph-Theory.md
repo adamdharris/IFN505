@@ -39,3 +39,11 @@
 **Efficiency** for Binary Heap and Adjacency List is `O(|V|log|V|+|E|log|V|)`
 
 [Prim's Algorithm - Example](https://www.youtube.com/watch?v=cplfcGZmX7I)
+
+### Kruskal's Algorithm
+* Results in a minimum spanning tree
+* Uses merge sort
+
+**Efficiency** is `O(E.logE)`
+
+[Kruskal's Algorithm - Example](https://www.youtube.com/watch?v=71UQH7Pr9kU)
